@@ -4,3 +4,4 @@
 3. The enter button would enter whatever word they just typed in.
 4. The smallest working version of this project would be a mad lib that takes their input and outputs the entire mad lib.
 5. A question we'd need to research is how to put strings and inputs together. 
+![Mad Lib Photo](https://www.pinterest.com/aprildikty/mad-libs/)
