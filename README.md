@@ -10,7 +10,7 @@ The user will fill in blank text fields prompting them for specific types of wor
 The user would input a key such as a mouse click and the generator would generate a word that makes sense in the context of the sentence.
 
 ## What is the smallest working version
-A command-line interface (CLI) script written in Python or JavaScript that prompts the user for exactly three words via text input, plugs them into a single hardcoded string template, and prints the result instantly to the screen.
+A command-line interface (CLI) script written in Python or Processing that prompts the user for exactly three words via text input, plugs them into a single hardcoded string template, and prints the result instantly to the screen.
 
 ## What is one question your group needs to research
 How will we store and randomly cycle through different story templates so the user doesn't get the same story twice?
