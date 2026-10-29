@@ -1,4 +1,4 @@
-# Mad Lib Generator
+# Chaos in Context
 ![Mad Lib Guy Photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSchGEEAxWkOoT4ApMTA8KZVMDWYE7Eo7bF040KmE-Y2QhB7pMySZ3s6W2I&s=10)
 ## Who might use the app
 This is a tool for people looking for a fun way to teach parts of speech, parents looking for quick road-trip entertainment, or children and teens who want a quick laugh.
