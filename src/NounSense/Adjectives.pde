@@ -14,6 +14,6 @@ adjectives() {
  void display() {
  // replace rect wih an image
  fill(200,7,88);
- rect(x,y,to,to);
+ rect(x,y,50,50);
 
 }
