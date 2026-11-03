@@ -1,6 +1,6 @@
 // Dylan Codell
 class Adjectives
-  // Memeber variables
+  // Member variables
   int x,y;
   array:Adjectives[x]
 
