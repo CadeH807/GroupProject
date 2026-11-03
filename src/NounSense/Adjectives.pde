@@ -5,7 +5,7 @@ class Adjectives
   array:Adjectives[x]
 
 // Constructor
-adjectives() {
+Adjectives() {
     x = 50;
     y = 50;
 }
