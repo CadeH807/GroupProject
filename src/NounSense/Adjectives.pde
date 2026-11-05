@@ -1,4 +1,4 @@
-//Shamus Sage
+// Dylan Codell
 class Adj {
   String[]AnimalAdj= {
     "Industrious", "Mimetic", "Predatory", "Soaring", "Vociferous", "Tenacious",
