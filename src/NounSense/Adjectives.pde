@@ -53,4 +53,5 @@ class Adj {
     println("Noun Inventory successfully loaded! Total items: " + NounInventory.size());
   }
 }
+// actually coded by Shamus
 
