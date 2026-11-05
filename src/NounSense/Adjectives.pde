@@ -2,7 +2,7 @@
 class Adjectives {
   // Member Variables
   int x,y;
-  p1 PImage;
+  PImage p1;
 
   // Constructor
   Adjectives() {
