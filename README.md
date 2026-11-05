@@ -1,5 +1,6 @@
 # Noun-Sense
-![Mad Lib Guy Photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSchGEEAxWkOoT4ApMTA8KZVMDWYE7Eo7bF040KmE-Y2QhB7pMySZ3s6W2I&s=10)
+<img width="795" height="793" alt="Madlib start screen" src="https://github.com/user-attachments/assets/96970ca1-bf04-4d9f-809e-3f48cb903a08" />
+
 ## Who might use the app
 This is a tool for people looking for a fun way to teach parts of speech, parents looking for quick road-trip entertainment, or children and teens who want a quick laugh.
 
