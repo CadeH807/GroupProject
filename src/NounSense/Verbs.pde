@@ -1,11 +1,11 @@
 // Shamus Sage
-class Adverbs {
+class Verbs {
   // Member Variables
   int x,y;
-  p1 PImage;
+  PImage p1;
 
   // Constructor
-  Adverbs() {
+  Verbs() {
     x = 50;
     y = 50;
     p1 = loadImage("");
