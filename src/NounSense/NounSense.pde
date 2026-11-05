@@ -1,6 +1,6 @@
 // Shamus Sage
 
-// Shamus Sage
+
 StringList NounInventory = new StringList();
 StringList VerbInventory = new StringList();
 StringList AdjInventory = new StringList();
