@@ -1,3 +1,4 @@
+// Cade Hargett
 class Noun {
   int x, y;
   float decide= random(0.9, 4);
