@@ -16,4 +16,4 @@ A command-line interface (CLI) script written in Python or Processing that promp
 ## What is one question your group needs to research
 How will we store and randomly cycle through different story templates so the user doesn't get the same story twice?
 
-![Mad Lib Photo](https://i.pinimg.com/originals/cf/1b/8d/cf1b8d9e0c5015a19f1500aba9cb47f1.jpg)
+![Mad Lib Photo]<img width="798" height="794" alt="Screenshot 2026-11-05 at 8 42 23 AM" src="https://github.com/user-attachments/assets/eaa98ef6-065c-4bc6-b5f1-85466acd2197" />
