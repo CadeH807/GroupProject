@@ -16,5 +16,8 @@ A command-line interface (CLI) script written in Python or Processing that promp
 ## What is one question your group needs to research
 How will we store and randomly cycle through different story templates so the user doesn't get the same story twice?
 
+## Photo of the Logic Flow Diagram
+<img width="821" height="1064" alt="LogicFlowDiagram" src="https://github.com/user-attachments/assets/32fa7245-7e4e-4634-a3f4-fefeb727881e" />
 
-[Mad Lib Photo]<img width="798" height="794" alt="Screenshot 2026-11-05 at 8 42 23 AM" src="https://github.com/user-attachments/assets/eaa98ef6-065c-4bc6-b5f1-85466acd2197" />
+## Mad Lib Example Image
+<img width="798" height="794" alt="Screenshot 2026-11-05 at 8 42 23 AM" src="https://github.com/user-attachments/assets/eaa98ef6-065c-4bc6-b5f1-85466acd2197" />
